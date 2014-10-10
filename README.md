@@ -1,4 +1,4 @@
-# generator-index
+# Index Generator
 
 [![Build Status](https://secure.travis-ci.org/johnotander/generator-index.png?branch=master)](https://travis-ci.org/johnotander/generator-index)
 
